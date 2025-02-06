@@ -56,16 +56,3 @@ On the payment page you can fill the necessary information and check the total p
 
 Here you will be able to see delivery address that you filled in the last step and you can add the card details (debit/credit) to place your order, and you’ll get an order placed message.
 
-<h2>Team Members:</h2>
-
-Suraj Badwaik,
-
-Laxmi Wavale,
-
-Nachiket Lele,
-
-Manish Yadav,
-
-Sukhdev Hansda,
-
-Shivani Gupta.
